@@ -1,2 +1,2 @@
-# Druga_Kragujevacka_Gimnazija
-Namenjeno ucenicima Druge Kragujevacke Gimnazije
+# Programiranje 3
+Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
