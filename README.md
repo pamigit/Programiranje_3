@@ -1,0 +1,2 @@
+# Druga_Kragujevacka_Gimnazija
+Namenjeno ucenicima Druge Kragujevacke Gimnazije
