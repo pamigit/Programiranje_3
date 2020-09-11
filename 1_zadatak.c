@@ -7,7 +7,7 @@ Kako bi glasila odgovarajuća funkcija za proveru? */
 
 int main()
 {
-
+    /* nus - neusmeren, n - broj cvorova, ms - matrica susedstva */
     int ms[5][5]={
         {0,1,1,1,0},
         {1,0,1,0,1},
