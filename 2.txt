@@ -1,9 +1,11 @@
+/* Napisati program koji za definisanu matricu susedstva određuje i ispisuje stepen svakog čvora grafa postavljenog tom matricom? */
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-
+    /* st[5] - niz koji osznacava stepen cvora */
     int ms[5][5]={
         {0,1,0,1,0},
         {1,0,1,0,1},
