@@ -1,3 +1,7 @@
+/* 1. Napisati program koji za graf dat matricom susedstva proverava da li je usmeren ili ne i izdaje odgovarajuću poruku na ekranu.
+Kako bi glasila odgovarajuća funkcija za proveru? */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
