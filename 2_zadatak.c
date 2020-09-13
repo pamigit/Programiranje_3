@@ -22,12 +22,7 @@ int main()
             if(i!=j && ms[i][j]==1)
                 br++;
         st[i]=br;
-    }
-
-    for(i=0; i<n; i++){
         printf("\nCvor %d je stepena %d", i+1, st[i]);
-
     }
-
     return 0;
 }
