@@ -5,7 +5,7 @@
 
 int main()
 {
-    /* st[5] - niz koji osznacava stepen cvora */
+    /* st[5] - niz broja koja za dati cvor odredjuje stepen */
     int ms[5][5]={
         {0,1,0,1,0},
         {1,0,1,0,1},
