@@ -9,3 +9,4 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * 1.txt i 2.txt
 - 14.09.2020 (2 casa)
   Link za dodatno pojasnjenje Liste Susedstva i Matrice Susedstva (video link) - https://www.youtube.com/watch?v=k1wraWzqtvQ&ab_channel=mycodeschool
+  Dodala fajl Zadaci.doc za vezbanje
