@@ -21,7 +21,7 @@ int main()
     for(i=0; i<n; i++)
         if(ms[i][i]==1)
             nus=0;
-    /* Pitamo da li je simetrican*/
+    /* Pitamo da li je simetrican - nije usmeren*/
     if (nus){
         for(i=0; i<n; i++){
             for(j=i+1; j<n; j++)
