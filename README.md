@@ -11,3 +11,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Link za dodatno pojasnjenje Liste Susedstva i Matrice Susedstva (video link) - https://www.youtube.com/watch?v=k1wraWzqtvQ&ab_channel=mycodeschool
   * Dodala fajl Zadaci.doc za vezbanje
   * Zadaci 3_zadatak.c i 4_zadatak.c za vezbanje (lista susedstva i matrica susedstva)
+- 17.09.2020 (1 cas) - cetvrtak
+  * Obradjujemo BFS (pretragu grafa po sirini) 
+  * Iz skripte 03_Grafovi.pdf (str3) pogledati princip pretrage grafa u sirinu
