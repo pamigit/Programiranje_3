@@ -3,16 +3,15 @@
 // representation of graphs 
 #include <stdio.h> 
 #include <stdlib.h> 
-  
-#define maxNode = 4;
+int maxNode = 4;
 
-typedef struct Node 
+typedef struct 
 {
 	int vertexNum;
 	struct Node *next;
 }Node;
 
-typedef struct List 
+typedef struct 
 {
 	Node *head;
 }List;
@@ -33,7 +32,7 @@ void addNode(int s, int d)
 	dest->vertexNum=d;
 	dest->next=NULL;
 	temp=adjlist[s]->head;
-	while(temp->next?=NULL)
+	while(temp->next!=NULL)
 		temp=temp->next;
 	temp->next=dest;
 }
@@ -67,7 +66,7 @@ int main()
 	addNode(0,3);
 	addNode(1,2);
 	printList();
-	getch();
+	
   
     // return 0; 
 } 
