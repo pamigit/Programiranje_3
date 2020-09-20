@@ -16,5 +16,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Iz skripte 03_Grafovi.pdf (str3) pogledati princip pretrage grafa u sirinu
 - 21.09.2020 (2 casa) - ponedeljak
   * Vezbamo pretragu grafa u sirinu i obradjujemo pretragu grafa u dubinu (DFS)
-  * Objasnjenje za BFS i DFS mozete pogledati na sledecem linku:
-    https://www.youtube.com/watch?v=pcKY4hjDrxk&ab_channel=AbdulBari
+  * Objasnjenje za BFS i DFS mozete pogledati na sledecim linkovima:
+    1. https://www.youtube.com/watch?v=pcKY4hjDrxk&ab_channel=AbdulBari
+    2. https://www.youtube.com/watch?v=5mG-qBRhvKQ&ab_channel=TheoryofProgramming
