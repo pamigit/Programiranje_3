@@ -12,5 +12,9 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Dodala fajl Zadaci.doc za vezbanje
   * Zadaci 3_zadatak.c i 4_zadatak.c za vezbanje (lista susedstva i matrica susedstva)
 - 17.09.2020 (1 cas) - cetvrtak
-  * Obradjujemo BFS (pretragu grafa po sirini) 
+  * Obradjujemo pretragu grafa po sirini (BFS) 
   * Iz skripte 03_Grafovi.pdf (str3) pogledati princip pretrage grafa u sirinu
+- 21.09.2020 (2 casa) - ponedeljak
+  * Vezbamo pretragu grafa u sirinu i obradjujemo pretragu grafa u dubinu (DFS)
+  * Objasnjenje za BFS i DFS mozete pogledati na sledecem linku:
+    https://www.youtube.com/watch?v=pcKY4hjDrxk&ab_channel=AbdulBari
