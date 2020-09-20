@@ -15,6 +15,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Obradjujemo pretragu grafa po sirini (BFS) 
   * Iz skripte 03_Grafovi.pdf (str3) pogledati princip pretrage grafa u sirinu
 - 21.09.2020 (2 casa) - ponedeljak
+  * Update-ovala sam 3 zadatak za listu susedstva (za one koji zele vise :smiley:)
   * Vezbamo pretragu grafa u sirinu i obradjujemo pretragu grafa u dubinu (DFS)
   * Objasnjenje za BFS i DFS mozete pogledati na sledecim linkovima:
     1. https://www.youtube.com/watch?v=pcKY4hjDrxk&ab_channel=AbdulBari
