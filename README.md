@@ -20,3 +20,4 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Objasnjenje za BFS i DFS mozete pogledati na sledecim linkovima:
     1. https://www.youtube.com/watch?v=pcKY4hjDrxk&ab_channel=AbdulBari
     2. https://www.youtube.com/watch?v=5mG-qBRhvKQ&ab_channel=TheoryofProgramming
+  * Dodala sam 3. i 4. zadatak za BFS i DFS
