@@ -21,3 +21,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
     1. https://www.youtube.com/watch?v=pcKY4hjDrxk&ab_channel=AbdulBari
     2. https://www.youtube.com/watch?v=5mG-qBRhvKQ&ab_channel=TheoryofProgramming
   * Dodala sam 3. i 4. zadatak za BFS i DFS
+- 24.09.2020 (1 cas) - cetvrtak
+  * Vezbamo pretragu grafa u dubinu (DFS) i u sirinu (BFS)
