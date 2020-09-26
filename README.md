@@ -23,3 +23,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Dodala sam 3. i 4. zadatak za BFS i DFS
 - 24.09.2020 (1 cas) - cetvrtak
   * Vezbamo pretragu grafa u dubinu (DFS) i u sirinu (BFS)
+- 28.09.2020 (2 casa) - ponedeljak
+  * Obradjujemo Topolosko sortiranje grafa (Khan-ov algoritam i algoritam zasnovan na DFS metodologiji)
+  * Iz skripte 03_Grafovi.pdf (str 7) objasnjenje Topoloskog sortiranja, ali objasnjenje nije dovoljno jer je potrebno da se isprati sve sa casa (pisanje u sveskama je neophodno)
+  * Dogovor za Kontrolnu vezbu
