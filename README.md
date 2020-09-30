@@ -27,3 +27,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Obradjujemo Topolosko sortiranje grafa (Khan-ov algoritam i algoritam zasnovan na DFS metodologiji)
   * Iz skripte 03_Grafovi.pdf (str 7) objasnjenje Topoloskog sortiranja, ali objasnjenje nije dovoljno jer je potrebno da se isprati sve sa casa (pisanje u sveskama je neophodno)
   * Dogovor za Kontrolnu vezbu
+- 01.10.2020 (1 cas) - cetvrtak
+  * Test je zakazan za ponedeljak 05.10.2020
+  * Pripremacemo se za test
