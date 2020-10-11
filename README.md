@@ -30,3 +30,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 01.10.2020 (1 cas) - cetvrtak
   * Test je zakazan za ponedeljak 05.10.2020
   * Pripremacemo se za test
+- 12.10.2020 (2 casa) - ponedeljak
+  * Saopstavanje ocena sa testa
+  * Obradjujemo Topolosko sortiranje koristeci DFS algoritam, updatovala img "Topological-Sorting-1" za bolje objasnjenje algoritma
