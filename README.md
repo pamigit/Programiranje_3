@@ -35,5 +35,5 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Obradjujemo Topolosko sortiranje koristeci DFS algoritam, updatovala img "Topological-Sorting-1" za bolje objasnjenje algoritma
   * Obradjujemo takodje Dijkstra algoritam, njegovo objasnjenje imate u fajlu "03_Grafovi" (11 str.) i na linku https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/
 - 15 i 19.10.2020 (1 cas i 2 casa) - cetvrtak i ponedeljak
-  * Obrada teme Dijkstra algoritma 
+  * Obrada teme Dijkstra algoritam 
 
