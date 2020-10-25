@@ -36,4 +36,6 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Obradjujemo takodje Dijkstra algoritam, njegovo objasnjenje imate u fajlu "03_Grafovi" (11 str.) i na linku https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/
 - 15 i 19.10.2020 (1 cas i 2 casa) - cetvrtak i ponedeljak
   * Obrada teme Dijkstra algoritam 
+- 26.10.2020 (2 casa) - ponedeljak
+  * Obrada teme Floyd-Warshallov algoritam
 
