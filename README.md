@@ -39,4 +39,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 26.10.2020 (2 casa) - ponedeljak
   * Obrada teme Floyd-Warshallov algoritam
   * Objasnjenje algoritma imate u fajlu "03_Grafovi" (12. str) i na linku https://www.youtube.com/watch?v=oNI0rf2P9gE&ab_channel=AbdulBari
+- 29.10.2020 (1 cas) - cetvrtak
+  * Pripremacemo se za test koji ce se odrzati 02.11.2020
+  * Teme koje ce biti na testu: Topolosko sortiranje (1. i 2. nacin), Dijkstra algoritam i Floyd-Warshallov algoritam
 
