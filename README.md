@@ -42,4 +42,9 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 29.10.2020 (1 cas) - cetvrtak
   * Pripremacemo se za test koji ce se odrzati 02.11.2020
   * Teme koje ce biti na testu: Topolosko sortiranje (1. i 2. nacin), Dijkstra algoritam i Floyd-Warshallov algoritam
+- 02.11.2020 (2 casa) - ponedeljak
+  * Odradjivace se test
+  * Na testu trebate poneti jednu boju (drvenu ili flomaster) sa sobom
+  * Od pseudocoda ce biti za Khanov i Floyd-Warshallov algoritam
+  * Obratiti paznju kod Dijkstrinovog algoritma na najkracu putanju od startnog do svakog sledeceg cvora (zbog toga vam je potrebna bojica)
 
