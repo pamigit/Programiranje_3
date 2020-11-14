@@ -47,4 +47,8 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Na testu trebate poneti jednu boju (drvenu ili flomaster) sa sobom
   * Od pseudocoda ce biti za Khanov i Floyd-Warshallov algoritam
   * Obratiti paznju kod Dijkstrinovog algoritma na najkracu putanju od startnog do svakog sledeceg cvora (zbog toga vam je potrebna bojica)
+- 09.11.2020 (2 casa) - ponedeljak
+  * Sistematizacija Grafova
+  * Podsecanje gradiva sa prvog testa
+  * Narednog casa otpocecemo da obradjujemo oblast Algoritmi Teksta
 
