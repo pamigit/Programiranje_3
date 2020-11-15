@@ -51,4 +51,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Sistematizacija Grafova
   * Podsecanje gradiva sa prvog testa
   * Narednog casa otpocecemo da obradjujemo oblast Algoritmi Teksta
+- 16.11.2020 (2 casa) - ponedeljak
+  * Obradjivacemo novo gradivo "Algoritam za podudaranje niza uz pomoc Grube Sile (Brute Force)"
+  * Objasnjenje algoritma imate na linku https://www.youtube.com/watch?v=yMJLpdKV0BQ&ab_channel=TutorialsPoint%28India%29Ltd.
 
