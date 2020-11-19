@@ -52,6 +52,9 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
   * Podsecanje gradiva sa prvog testa
   * Narednog casa otpocecemo da obradjujemo oblast Algoritmi Teksta
 - 16.11.2020 (2 casa) - ponedeljak
-  * Obradjivacemo novo gradivo "Algoritam za podudaranje niza uz pomoc Grube Sile (Brute Force)"
-  * Objasnjenje algoritma imate na linku https://www.youtube.com/watch?v=yMJLpdKV0BQ&ab_channel=TutorialsPoint%28India%29Ltd.
+  * Obradjivacemo novo gradivo "Algoritam za podudaranje niza uz pomoc Grube Sile (Brute Force - BF)"
+  * Objasnjenje algoritma imate na linku https://www.youtube.com/watch?v=yMJLpdKV0BQ&ab_channel=TutorialsPoint%28India%29Ltd
+- 19.11.2020 (1 cas) - cetvrtak
+  * Obradjivacemo novo gradivo "Algoritam za podudaranje niza uz pomoc KMP (Knuth-Morris-Pratt) algoritma"
+  * Objasnjenje algoritma imate na linku https://www.youtube.com/watch?v=V5-7GzOfADQ&ab_channel=AbdulBari
 
