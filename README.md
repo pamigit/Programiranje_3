@@ -57,4 +57,7 @@ Namenjeno ucenicima 3. godine SI smera Druge Kragujevacke Gimnazije
 - 19.11.2020 (1 cas) - cetvrtak
   * Obradjivacemo novo gradivo "Algoritam za podudaranje niza uz pomoc KMP (Knuth-Morris-Pratt) algoritma"
   * Objasnjenje algoritma imate na linku https://www.youtube.com/watch?v=V5-7GzOfADQ&ab_channel=AbdulBari
+- 23.11.2020 (2 casa) - ponedeljak
+  * Obradjivacemo novo gradivo "Algoritam za podudaranje niza uz pomoć BM (Boyer-Moore) algoritma" 
+  * Objašnjenje algoritma imate na linku https://m.youtube.com/watch?v=3Ft3HMizsCk i https://m.youtube.com/watch?v=Tbj8iH9UkSA
 
